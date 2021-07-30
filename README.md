@@ -1,5 +1,7 @@
 # basicmath
-This is a Package For Python, which is uploaded on Pypi
-<pre> <code>
-  hello
-</code> </pre>
+THIS PYTHON PACKAGE IS USED FOR CALCULATING CUBE ROOT, SQUARE ROOT, AREA OF CIRLCE, PERIMETER OF CIRLCE AND ETC.
+
+HOW TO USE THIS PROGRAM -
+
+TO INSTALL THIS MODULE TYPE IN YOUR TERMINAL -
+<pre> <code>pip install basicmath</code></pre>

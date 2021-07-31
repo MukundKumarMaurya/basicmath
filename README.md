@@ -7,6 +7,6 @@ How to use this module -
 
 To install this module, Type in your terminal –
 
-``pip install basicmath``
+`<pre> <code> pip install basicmath </pre> </code>
 
 

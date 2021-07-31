@@ -1,7 +1,12 @@
+
 # basicmath
-THIS PYTHON PACKAGE IS USED FOR CALCULATING CUBE ROOT, SQUARE ROOT, AREA OF CIRLCE, PERIMETER OF CIRLCE AND ETC.
 
-HOW TO USE THIS PROGRAM -
+This python package is used for calculating cube root, square root, area of a circle, the perimeter of circle and etc.
 
-TO INSTALL THIS MODULE TYPE IN YOUR TERMINAL -
-<pre> <code>pip install basicmath</code></pre>
+How to use this module -
+
+To install this module, Type in your terminal –
+
+``pip install basicmath``
+
+

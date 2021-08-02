@@ -10,7 +10,7 @@ To install this module, Type in your terminal –
 
 Functions in this module ➤
 
-Square Root : 
+To find Square Root : 
 
 ``` python
 import basicmath

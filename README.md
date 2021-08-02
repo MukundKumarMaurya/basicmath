@@ -6,7 +6,7 @@ This python package is used for calculating cube root, square root, area of a ci
 How to use this module -
 
 To install this module, Type in your terminal –
-<font size = "4px">
+<font size = "40px">
 <pre> <code> pip install basicmath </pre> </code>
 </font>
 

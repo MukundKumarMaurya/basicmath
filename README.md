@@ -7,3 +7,12 @@ How to use this module -
 To install this module, Type in your terminal –
 
 ``pip install basicmath ``
+
+Functions in this module ➤
+
+Square Root : 
+
+``` python
+import basicmath
+
+```
